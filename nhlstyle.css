@@ -6,6 +6,8 @@ ul {
     background-color: #333333;
     font-family: "Stack Sans Text", sans-serif;
     font-optical-sizing: auto;
+    display: flex;
+  justify-content: center;
   }
 
   ul li {
@@ -48,7 +50,7 @@ ul {
   h3 {
     font-family: "Stack Sans Text", sans-serif;
     font-optical-sizing: auto;
-    color:rgb(50, 145, 70);
+    color:rgb(62, 110, 182);
     display: block;
     margin: 0 auto;
     text-align: center;
@@ -57,7 +59,7 @@ ul {
   h4 {
     font-family: "Stack Sans Text", sans-serif;
     font-optical-sizing: auto;
-    color:rgb(229, 255, 0);
+    color:rgb(220, 38, 71);
     display: block;
     margin: 0 auto;
     text-align: center;
@@ -91,7 +93,7 @@ ul {
   }
 
   a:hover {
-    color: greenyellow;
+    color: rgb(47, 137, 255);
   }
   img {
     display: block;
@@ -100,4 +102,16 @@ ul {
   iframe {
     display: block;
     margin: 0 auto;
+  }
+
+  .logo {
+    width: 120px;
+    height: auto;
+  }
+
+  .logo:hover {
+    color:#464646
+  }
+  body {
+    background-image: url(/images/BG.png)
   }
