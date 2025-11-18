@@ -1,0 +1,103 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+    font-family: "Stack Sans Text", sans-serif;
+    font-optical-sizing: auto;
+  }
+
+  ul li {
+    float: left;
+  }
+
+  ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  ul li a:hover {
+    background-color: #111111;
+  }
+
+  h1 {
+    font-family: "Stack Sans Text", sans-serif;
+    font-optical-sizing: auto;
+    color:aliceblue;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  body {
+    background-color: #464646;
+  }
+  h2 {
+    font-family: "Stack Sans Text", sans-serif;
+    font-optical-sizing: auto;
+    color:rgb(0, 136, 255);
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  h3 {
+    font-family: "Stack Sans Text", sans-serif;
+    font-optical-sizing: auto;
+    color:rgb(50, 145, 70);
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  h4 {
+    font-family: "Stack Sans Text", sans-serif;
+    font-optical-sizing: auto;
+    color:rgb(229, 255, 0);
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+  }
+  h5 {
+    font-family: "Stack Sans Text", sans-serif;
+    font-optical-sizing: auto;
+    color:aliceblue;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+  }
+  h6 {
+    font-family: "Stack Sans Text", sans-serif;
+    font-optical-sizing: auto;
+    color:aliceblue;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+  }
+  p {
+    font-family: "Stack Sans Text", sans-serif;
+    font-optical-sizing: auto;
+    color:aliceblue;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+  }
+  a {
+    color: rgb(255, 255, 255);
+  }
+
+  a:hover {
+    color: greenyellow;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  iframe {
+    display: block;
+    margin: 0 auto;
+  }
