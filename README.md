@@ -1,2 +1,2 @@
-<meta http-equiv="refresh" content="0; url=YOUR_HTML_FILE.html">
-<p>If you are not redirected automatically, <a href="YOUR_HTML_FILE.html">click here</a>.</p>
+<meta http-equiv="refresh" content="0; url="NHL News and Highlights.html">
+<p>If you are not redirected automatically, <a href="NHL News and Highlights.html">click here</a>.</p>
